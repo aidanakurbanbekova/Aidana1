@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aidana1/static/css/main.666bee99.css",
+    "main.js": "/Aidana1/static/js/main.66a4f62d.js",
+    "static/media/GitHub-logo.png": "/Aidana1/static/media/GitHub-logo.a7cb412dfa89787a0e7a.png",
+    "static/media/unnamed.png": "/Aidana1/static/media/unnamed.c2d22159f6dd3cf8b41a.png",
+    "index.html": "/Aidana1/index.html",
+    "main.666bee99.css.map": "/Aidana1/static/css/main.666bee99.css.map",
+    "main.66a4f62d.js.map": "/Aidana1/static/js/main.66a4f62d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666bee99.css",
+    "static/js/main.66a4f62d.js"
+  ]
+}
